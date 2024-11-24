@@ -1,0 +1,15 @@
+This repository contains the code for a simple and responsive News Landing Page built using HTML and CSS. 
+The landing page displays featured news, breaking news, and includes a subscription form for newsletter sign-ups. 
+The page is designed with modern web standards and includes basic styling for responsiveness.
+
+Features
+  Responsive grid layout for featured news articles.
+  Horizontal scrolling breaking news ticker.
+  Email subscription form.
+  Modern and clean design.
+  Smooth scrolling effect for anchor links.
+  Optimized for mobile view with media queries.
+
+Open the Landing.html file in any modern web browser to view the page.
+The layout is responsive and adjusts based on screen size. Resize the browser window or open the page on a mobile device to test responsiveness
+
